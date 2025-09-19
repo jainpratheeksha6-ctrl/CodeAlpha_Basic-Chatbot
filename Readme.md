@@ -1,6 +1,6 @@
 # Zuzu 🤖 - Python AI Chatbot
 
-![Python Version](https://img.shields.io/badge/python-3.11-blue)
+![Python Version](https://img.shields.io/badge/python-3.13.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A simple Python chatbot that interacts with users, detects greetings, recognizes names, replies according to the time of day, and logs all conversations.
