@@ -1,2 +1,7 @@
-You: hi
+You: hello
+Zuzu: Hi there! Good morning! 🌞
+You: how are you
+Zuzu: I’m fine, Thanks! 🌼
+You: bye
+Zuzu: Goodbye! Have a nice day! 👋
 
